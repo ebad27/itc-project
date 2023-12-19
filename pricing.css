@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    background: url(./pics/background2.avif);
+    background-position: center;
+    background-size: cover;
+
+  }
+  
+  .container {
+    max-width: 960px;
+  }
+  
+  .pricing-header {
+    max-width: 700px;
+  }
+  
+  footer{
+    color: whitesmoke;
+  }
+
+  p{
+    color: whitesmoke;
+  }
